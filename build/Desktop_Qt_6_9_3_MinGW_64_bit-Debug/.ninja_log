@@ -1,0 +1,26 @@
+# ninja log v6
+171	2336	7821587237277134	CMakeFiles/DialogueEditorTool.dir/mainwindow.cpp.obj	96f97421e9b8adc8
+619	2594	7821566473819573	CMakeFiles/DialogueEditorTool.dir/DialogueEditorTool_autogen/mocs_compilation.cpp.obj	8153f3b6d383380d
+29	171	7821587235857992	DialogueEditorTool_autogen/timestamp	e7e778cf594b3ea2
+29	171	7821587235857992	DialogueEditorTool_autogen/mocs_compilation.cpp	e7e778cf594b3ea2
+29	171	7821587235857992	C:/CppProjects/DialogueEditorTool/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/DialogueEditorTool_autogen/timestamp	e7e778cf594b3ea2
+29	171	7821587235857992	C:/CppProjects/DialogueEditorTool/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/DialogueEditorTool_autogen/mocs_compilation.cpp	e7e778cf594b3ea2
+2572	2793	7821587261286908	DialogueEditorTool.exe	52b3e14218d0d508
+622	2680	7821566473850060	CMakeFiles/DialogueEditorTool.dir/main.cpp.obj	49aa7e4090bcdb29
+174	2572	7821587237308837	CMakeFiles/DialogueEditorTool.dir/dialoguelinewidget.cpp.obj	aab92a72637b65fe
+18	35	7820524300425211	CMakeFiles/clean.additional	baedbe210acaa455
+35	41	7820524300590428	clean	577b940aee94fbd7
+28	172	7821588442943210	DialogueEditorTool_autogen/timestamp	e7e778cf594b3ea2
+28	172	7821588442943210	DialogueEditorTool_autogen/mocs_compilation.cpp	e7e778cf594b3ea2
+28	172	7821588442943210	C:/CppProjects/DialogueEditorTool/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/DialogueEditorTool_autogen/timestamp	e7e778cf594b3ea2
+28	172	7821588442943210	C:/CppProjects/DialogueEditorTool/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/DialogueEditorTool_autogen/mocs_compilation.cpp	e7e778cf594b3ea2
+173	2326	7821588444390445	CMakeFiles/DialogueEditorTool.dir/mainwindow.cpp.obj	96f97421e9b8adc8
+176	2573	7821588444420971	CMakeFiles/DialogueEditorTool.dir/dialoguelinewidget.cpp.obj	aab92a72637b65fe
+2573	2784	7821588468393885	DialogueEditorTool.exe	52b3e14218d0d508
+32	173	7821589085667780	DialogueEditorTool_autogen/timestamp	e7e778cf594b3ea2
+32	173	7821589085667780	DialogueEditorTool_autogen/mocs_compilation.cpp	e7e778cf594b3ea2
+32	173	7821589085667780	C:/CppProjects/DialogueEditorTool/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/DialogueEditorTool_autogen/timestamp	e7e778cf594b3ea2
+32	173	7821589085667780	C:/CppProjects/DialogueEditorTool/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/DialogueEditorTool_autogen/mocs_compilation.cpp	e7e778cf594b3ea2
+174	2350	7821589087091022	CMakeFiles/DialogueEditorTool.dir/mainwindow.cpp.obj	96f97421e9b8adc8
+177	2596	7821589087123158	CMakeFiles/DialogueEditorTool.dir/dialoguelinewidget.cpp.obj	aab92a72637b65fe
+2596	2807	7821589111303799	DialogueEditorTool.exe	52b3e14218d0d508
